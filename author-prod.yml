@@ -1,0 +1,11 @@
+authorapi:
+  message: "Author Api"
+  contactDetails:
+    name: "Beto - Product Owner"
+    email: "beto.po@gmail.com"
+  callOnSupport:
+    - 3299999999
+    - 3288888888
+
+build:
+  version: "2.0"

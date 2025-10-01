@@ -1,0 +1,11 @@
+bookapi:
+  message: "Book Api"
+  contactDetails:
+    name: "Cosme - PO"
+    email: "cosmepo@gmail.com"
+  callOnSupport:
+    - 23232323
+    - 45454545
+
+build:
+  version: "1.4"
