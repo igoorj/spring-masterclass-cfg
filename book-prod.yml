@@ -1,5 +1,5 @@
 bookapi:
-  message: "Book Api"
+  message: "Book Service Api"
   contactDetails:
     name: "Cosme - PO"
     email: "{cipher}5a0391302c7ed3a559fa1b4b4e87c047837dc76c306156a166d20ba7c044ab770b0a8e13f1d2198bd3b41bf7c7f7ddd1"
