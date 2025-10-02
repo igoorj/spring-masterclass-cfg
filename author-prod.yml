@@ -1,5 +1,5 @@
 authorapi:
-  message: "Author Api"
+  message: "Author Service Api"
   contactDetails:
     name: "Beto - Product Owner"
     email: "beto.po@gmail.com"
