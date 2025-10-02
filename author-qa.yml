@@ -1,5 +1,5 @@
 authorapi:
-  message: "Author Api"
+  message: "Author Api Service"
   contactDetails:
     name: "Arnaldo 2 - QA"
     email: "{cipher}6515bffea8188c28d5c2c214a833ac242dedb1ef9c352754b13bd0d68026ac811be58d3a6630d5679de0e5ec67b4815e"
