@@ -2,7 +2,7 @@ authorapi:
   message: "Author Service Api"
   contactDetails:
     name: "Beto - Product Owner"
-    email: "beto.po@gmail.com"
+    email: "{cipher}076bc4f1ba7f7f3d57c660f46c7a138c1f32d68c32e31e49ae832a7ce855f51a7bf907f0bd84f6053225deb6dccf6420"
   callOnSupport:
     - 3299999999
     - 3288888888
