@@ -2,7 +2,7 @@ bookapi:
   message: "Book Api"
   contactDetails:
     name: "Damaceno - QA"
-    email: "damacenoqa@gmail.com"
+    email: "{cipher}e736c44c23432f0d3a7c8851bc56ad8157d6fcbfd40a6781889b67fe070bd3d8bbe731ed8dca5d71a81abfdc6f7ed964"
   callOnSupport:
     - 23232323
     - 45454545
